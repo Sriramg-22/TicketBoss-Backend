@@ -139,7 +139,7 @@ This project helped me apply and strengthen my existing backend knowledge in a p
 6.Writing clear, concise, and professional documentation suitable for internship submissions
 
 
-## 🌱 Note to Reviewers
+🌱 Note to Reviewers
 
 I may not be perfect or highly experienced yet, but I am genuinely motivated to learn, improve, and grow as a software engineer.  
 I approach every project with curiosity, discipline, and a strong willingness to accept feedback.  
@@ -148,7 +148,7 @@ I am eager to learn from real-world experience and contribute meaningfully while
 
 ---
 
-## 👤 Author
+👤 Author
 
 G.SRIRAM  
 BTech Computer Science | MERN Stack Developer  
