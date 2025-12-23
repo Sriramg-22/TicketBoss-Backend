@@ -1,40 +1,37 @@
-TicketBoss – Event Seat Reservation API
+# TicketBoss – Event Seat Reservation API
 
 A Node.js and Express-based REST API that manages seat reservations for a single event with concurrency-safe booking, cancellation, and real-time seat availability tracking.
 
-🚀 Tech Stack
+---
 
-1.Node.js
+## 🚀 Tech Stack
 
-2.Express.js
+- Node.js  
+- Express.js  
+- MongoDB  
+- Mongoose  
+- RESTful APIs  
+- Postman (API Testing)
 
-3.MongoDB
+---
 
-4.Mongoose
+## 📁 Project Structure
 
-5.RestFul API'S
-
-6.Postman API (Testing)
-
-
-📁 Project Structure
-
+```bash
 ticketboss-backend/
-│
 ├── models/
-│   ├── event.js           # Event schema
-│   └── reservation.js    # Reservation schema
-│
+│   ├── event.js            # Event schema
+│   └── reservation.js     # Reservation schema
 ├── utils/
-│   ├── db.js              # MongoDB connection
-│   └── seed.js            # Event seeding logic
-│
-├── index.js               # Application entry point
+│   ├── db.js               # MongoDB connection
+│   └── seed.js             # Event seeding logic
+├── index.js                # Application entry point
 ├── package.json
 ├── package-lock.json
-├── .env                   # Environment variables
+├── .env                    # Environment variables
 ├── .gitignore
 └── README.md
+
 
 
 ⚙️ Setup Instructions
