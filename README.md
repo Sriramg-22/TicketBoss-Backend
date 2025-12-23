@@ -11,7 +11,7 @@ A Node.js and Express-based REST API that manages seat reservations for a single
 - MongoDB  
 - Mongoose  
 - RESTful APIs  
-- Postman (API Testing)
+- Postman and Thunder Client (API Testing)
 
 ---
 
